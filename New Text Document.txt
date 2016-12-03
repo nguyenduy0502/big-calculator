@@ -1,0 +1,8 @@
+phan mem big number
+
+ yeu cau
+- check cac loi dau vao, chi cho nhap 1 so cu phap da duoc chi dinh
+	+) chuan hoa xau
+
+- cover sang polish natatison 
+- them chuc nang thoi gian de xem thuat toan mot cach tu tu

@@ -1,0 +1,10 @@
+C:\Users\Kznguen\Desktop\Lap trinh WindownForm\BigCaculator\BigCaculator\bin\Debug\BigCaculator.exe.config
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\bin\Debug\BigCaculator.exe.config
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\bin\Debug\BigCaculator.exe
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\bin\Debug\BigCaculator.pdb
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\obj\Debug\BigCaculator.csprojResolveAssemblyReference.cache
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\obj\Debug\BigCaculator.Form1.resources
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\obj\Debug\BigCaculator.Properties.Resources.resources
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\obj\Debug\BigCaculator.csproj.GenerateResource.Cache
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\obj\Debug\BigCaculator.exe
+C:\Users\Kznguen\Desktop\BigCaculator\BigCaculator\obj\Debug\BigCaculator.pdb
